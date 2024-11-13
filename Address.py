@@ -38,3 +38,8 @@ class Addr(ShowData):
     def showData(self):
            print(f"이름: {self.get_name()}")
            print(f"전화번호: {self.get_phone()}")
+           
+        
+    
+            
+        
